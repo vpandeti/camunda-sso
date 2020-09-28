@@ -1,2 +1,2 @@
-# camunda-sso
-SSO functionality for Camunda BPM
+# camunda-auto-login
+Auto login functionality for Camunda BPM
